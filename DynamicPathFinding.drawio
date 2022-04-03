@@ -1,17 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T08:09:15.981Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="WhO9LHJnu_0m5KQyh5ve" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-03T08:17:18.027Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="2LHGNw6s_K_ecWECjJYF" version="17.4.0" type="github">
   <diagram id="-PNdPaAjFeKxy-EOOfYA" name="Page-1">
-    <mxGraphModel dx="2308" dy="1333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2600" dy="1600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="P5UM7dJKwEBTCQnFjk82-1" value="&lt;span style=&quot;white-space: pre&quot;&gt; Goal&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;1. Find the shortest path between player and Goal/Score without being touch by dangerous object.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" parent="1" vertex="1">
           <mxGeometry x="1550" y="120" width="620" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="cbbvz8Gn4PUxDW_Qx6Ab-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.001;entryY=0.398;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="P5UM7dJKwEBTCQnFjk82-18" target="P5UM7dJKwEBTCQnFjk82-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="P5UM7dJKwEBTCQnFjk82-18" value="&lt;span style=&quot;white-space: pre&quot;&gt; Sub Project&lt;br&gt;1. Mouse View Navigator &amp;amp; Map&lt;br&gt;2. Collision&lt;br&gt;3. File Access&lt;br/&gt;4. Path Finding&lt;br&gt;5. ... ?&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" parent="1" vertex="1">
-          <mxGeometry x="760" y="10" width="340" height="130" as="geometry" />
+          <mxGeometry x="720" y="60" width="340" height="130" as="geometry" />
         </mxCell>
         <mxCell id="cbbvz8Gn4PUxDW_Qx6Ab-2" value="&lt;span&gt; Components of Puzzle and Game:&lt;br&gt;Noun Verbs Object in an Environment under the Laws for Goal.&lt;br&gt;1. Noun and/or Verb = AI&lt;br&gt;1.1. Noun=Player&lt;br&gt;1.2. Verbs=Operation/Algorithm&lt;br&gt;//In most case, player and algorithm are the same part.&lt;br&gt;2. Object in an Environment=Object, Situation and/or Environment&lt;br&gt;3. Laws = Rules, Logical Rules, Physics and/or Limitation&lt;br&gt;4. Goal = Purpose/Achievement&lt;br&gt;&lt;/span&gt;&lt;span&gt;5. How2Use&lt;/span&gt;&lt;br&gt;&lt;span&gt;6. frontEnd Design&lt;/span&gt;&lt;br&gt;&lt;span&gt;7. Keyword &amp;amp; Sub project list.&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="160" width="380" height="180" as="geometry" />
+          <mxGeometry x="-270" y="190" width="380" height="180" as="geometry" />
         </mxCell>
         <mxCell id="cbbvz8Gn4PUxDW_Qx6Ab-7" value="Situation" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbbvz8Gn4PUxDW_Qx6Ab-3" target="cbbvz8Gn4PUxDW_Qx6Ab-5">
           <mxGeometry relative="1" as="geometry" />
@@ -19,11 +22,34 @@
         <mxCell id="cbbvz8Gn4PUxDW_Qx6Ab-9" value="Goal" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbbvz8Gn4PUxDW_Qx6Ab-3" target="P5UM7dJKwEBTCQnFjk82-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cbbvz8Gn4PUxDW_Qx6Ab-10" value="Keyword" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbbvz8Gn4PUxDW_Qx6Ab-3" target="P5UM7dJKwEBTCQnFjk82-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbbvz8Gn4PUxDW_Qx6Ab-13" value="frontEnd" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="cbbvz8Gn4PUxDW_Qx6Ab-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbbvz8Gn4PUxDW_Qx6Ab-14" value="How2Use" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="cbbvz8Gn4PUxDW_Qx6Ab-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbbvz8Gn4PUxDW_Qx6Ab-16" value="law" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="cbbvz8Gn4PUxDW_Qx6Ab-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1329.9999999999995" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbbvz8Gn4PUxDW_Qx6Ab-18" value="AI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbbvz8Gn4PUxDW_Qx6Ab-3" target="cbbvz8Gn4PUxDW_Qx6Ab-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cbbvz8Gn4PUxDW_Qx6Ab-3" value="2D Game" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="875" y="540" width="315" height="130" as="geometry" />
         </mxCell>
         <mxCell id="cbbvz8Gn4PUxDW_Qx6Ab-4" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-180" y="570" width="540" height="370" as="geometry" />
+          <mxGeometry x="-180" y="480" width="540" height="370" as="geometry" />
         </mxCell>
         <mxCell id="P5UM7dJKwEBTCQnFjk82-2" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" parent="cbbvz8Gn4PUxDW_Qx6Ab-4" vertex="1">
           <mxGeometry width="540" height="370" as="geometry" />
@@ -47,13 +73,10 @@
           <mxGeometry x="310" width="30" height="140" as="geometry" />
         </mxCell>
         <mxCell id="cbbvz8Gn4PUxDW_Qx6Ab-6" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1540" y="260" width="750" height="490" as="geometry" />
+          <mxGeometry x="1580" y="260" width="750" height="490" as="geometry" />
         </mxCell>
         <mxCell id="cbbvz8Gn4PUxDW_Qx6Ab-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cbbvz8Gn4PUxDW_Qx6Ab-6">
           <mxGeometry width="750" height="490" as="geometry" />
-        </mxCell>
-        <mxCell id="P5UM7dJKwEBTCQnFjk82-17" value="&lt;span style=&quot;white-space: pre&quot;&gt; Keywords&lt;br&gt;1. Self Driving Car&lt;br&gt;2. Snake Game&lt;br&gt;3. Evolution Stimulator&lt;br&gt;4. Path finding&lt;br&gt;5. reinforcement Learning&lt;br&gt;6. Game Engine&lt;br&gt;7. File Access&lt;br&gt;8. Collision&lt;br/&gt;9. Tier Zoo&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" parent="cbbvz8Gn4PUxDW_Qx6Ab-6" vertex="1">
-          <mxGeometry x="110" y="290" width="230" height="160" as="geometry" />
         </mxCell>
         <mxCell id="P5UM7dJKwEBTCQnFjk82-19" value="" style="group" parent="cbbvz8Gn4PUxDW_Qx6Ab-6" vertex="1" connectable="0">
           <mxGeometry x="100" y="55" width="600" height="200" as="geometry" />
@@ -96,6 +119,18 @@
         </mxCell>
         <mxCell id="P5UM7dJKwEBTCQnFjk82-16" value="&lt;span style=&quot;white-space: pre&quot;&gt; Object Movement&lt;br&gt;0. Not Move&lt;br&gt;1. Not Move at all&lt;br&gt;2. Player&lt;br&gt;3. Following&lt;br&gt;4. Rotating&lt;br&gt;5. Move randomly&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" parent="cbbvz8Gn4PUxDW_Qx6Ab-1" vertex="1">
           <mxGeometry x="200" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="P5UM7dJKwEBTCQnFjk82-17" value="&lt;span style=&quot;white-space: pre&quot;&gt; Keywords&lt;br&gt;1. Self Driving Car&lt;br&gt;2. Snake Game&lt;br&gt;3. Evolution Stimulator&lt;br&gt;4. Path finding&lt;br&gt;5. reinforcement Learning&lt;br&gt;6. Game Engine&lt;br&gt;7. File Access&lt;br&gt;8. Collision&lt;br/&gt;9. Tier Zoo&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" parent="1" vertex="1">
+          <mxGeometry x="450" y="150" width="230" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cbbvz8Gn4PUxDW_Qx6Ab-15" value="&lt;span style=&quot;white-space: pre&quot;&gt;	How2Use&lt;br/&gt;1. Edit/Choose Game Mode&lt;br/&gt;or Start Default Game&lt;br/&gt;2. Play&lt;br/&gt;//fHELP&lt;br/&gt;//fPERFORMANCE&lt;br/&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="160" y="170" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cbbvz8Gn4PUxDW_Qx6Ab-17" value="&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;Law&lt;br&gt;1. Do not Touch Dangerous Object&lt;br&gt;2. 2D Physic&lt;br&gt;3. You can only control your @D Player Sprite" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="800" width="685" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cbbvz8Gn4PUxDW_Qx6Ab-19" value="???" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="530" y="820" width="360" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
