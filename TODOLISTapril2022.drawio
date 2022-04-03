@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T05:49:40.952Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="mHCLgIiVeQ3wkFTFZPMI" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-03T13:30:16.338Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="bezCVClZid_sXTktf1IB" version="17.4.0" type="github">
   <diagram id="cjyhwheIi8SO1nBv0PdJ" name="Page-1">
-    <mxGraphModel dx="1554" dy="897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3XXhpOHeEcnUFsxsqvhQ-1" value="&lt;span style=&quot;white-space: pre&quot;&gt; Project&lt;br&gt;1. Image Puzzle&lt;br&gt;2. Dynamic Path Finding&lt;br/&gt;3. Find and Seek&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingLeft=10;align=left;" parent="1" vertex="1">
+        <mxCell id="3XXhpOHeEcnUFsxsqvhQ-1" value="&lt;span style=&quot;white-space: pre&quot;&gt; Project&lt;br&gt;1. Image Puzzle&lt;br&gt;2. Dynamic Path Finding&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingLeft=10;align=left;" parent="1" vertex="1">
           <mxGeometry x="80" y="120" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3XXhpOHeEcnUFsxsqvhQ-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#808080;" parent="1" vertex="1">
@@ -28,8 +28,8 @@
         <mxCell id="3XXhpOHeEcnUFsxsqvhQ-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="450" y="125" width="15" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="3XXhpOHeEcnUFsxsqvhQ-15" value="&lt;span style=&quot;white-space: pre&quot;&gt; Components of Puzzle and Game:&lt;br&gt;Noun Verbs Object in an Environment under the Laws for Goal.&lt;br&gt;1. Noun=Player&lt;br&gt;2. Verbs=Operation/Algorithm&lt;br&gt;3. Object in an Environment=Object, Situation and/or Environment&lt;br&gt;4. Laws = Rules, Logical Rules, Physics and/or Limitation&lt;br&gt;5. Goal = Purpose/Achievement&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" parent="1" vertex="1">
-          <mxGeometry x="10" y="240" width="380" height="130" as="geometry" />
+        <mxCell id="3XXhpOHeEcnUFsxsqvhQ-15" value="&lt;span style=&quot;white-space: pre&quot;&gt; Components of Puzzle and Game:&lt;br&gt;Noun Verbs Object in an Environment under the Laws for Goal.&lt;br&gt;1.1 Noun=What Player can control.&lt;br&gt;1.2 Verbs=Operation/Algorithm/Player Behavior&lt;br&gt;2. Object in an Environment=Object, Situation and/or Environment&lt;br&gt;3. Laws = Rules, Logical Rules, Physics and/or Limitation&lt;br&gt;4. Goal = Purpose/Achievement&lt;br&gt;5. How2Use, frontEnd Design&lt;br&gt;6. Keywords&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" parent="1" vertex="1">
+          <mxGeometry x="10" y="240" width="380" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
