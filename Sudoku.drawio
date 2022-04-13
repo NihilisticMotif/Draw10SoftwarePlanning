@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T03:10:34.204Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="ID2Bo67L64m9xewzFeRC" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-13T03:27:12.217Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="tvn7LmvQs5mVez5-6RQ3" version="17.4.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3935" dy="1794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2114" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -37,10 +37,10 @@
         <mxCell id="P9mcN9a8yqLOft1SeJQN-54" value="Updating Sudoku Grid Value" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="P9mcN9a8yqLOft1SeJQN-144" vertex="1">
           <mxGeometry x="90" y="700" width="230" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="P9mcN9a8yqLOft1SeJQN-46" value="if(ManualEntry)" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="P9mcN9a8yqLOft1SeJQN-144" vertex="1">
+        <mxCell id="P9mcN9a8yqLOft1SeJQN-46" value="if(Reset)" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="P9mcN9a8yqLOft1SeJQN-144" vertex="1">
           <mxGeometry x="20" y="490" width="260" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="P9mcN9a8yqLOft1SeJQN-52" value="Allow user to manually edit value of sudoku Grid" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="P9mcN9a8yqLOft1SeJQN-144" vertex="1">
+        <mxCell id="P9mcN9a8yqLOft1SeJQN-52" value="Turn All Sudoku Grids into default value" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="P9mcN9a8yqLOft1SeJQN-144" vertex="1">
           <mxGeometry x="10.25" y="595" width="279.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="P9mcN9a8yqLOft1SeJQN-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startArrow=none;startFill=0;endArrow=openThin;endFill=0;" parent="P9mcN9a8yqLOft1SeJQN-144" source="P9mcN9a8yqLOft1SeJQN-46" target="P9mcN9a8yqLOft1SeJQN-52" edge="1">
@@ -211,7 +211,7 @@
         <mxCell id="P9mcN9a8yqLOft1SeJQN-78" value="Sudoku" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#007FFF;fontColor=#FF9999;fontSize=20;" parent="P9mcN9a8yqLOft1SeJQN-75" vertex="1">
           <mxGeometry x="10" y="10" width="220" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="P9mcN9a8yqLOft1SeJQN-79" value="Manual Entry" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#007FFF;fillColor=#FFFFFF;" parent="P9mcN9a8yqLOft1SeJQN-75" vertex="1">
+        <mxCell id="P9mcN9a8yqLOft1SeJQN-79" value="Reset" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#007FFF;fillColor=#FFFFFF;" parent="P9mcN9a8yqLOft1SeJQN-75" vertex="1">
           <mxGeometry x="240" y="210" width="98" height="20" as="geometry" />
         </mxCell>
         <mxCell id="P9mcN9a8yqLOft1SeJQN-80" value="Play" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#007FFF;fillColor=#FFFFFF;" parent="P9mcN9a8yqLOft1SeJQN-75" vertex="1">
@@ -310,13 +310,13 @@
         <mxCell id="rr0GhopDp2_qztxzZN7T-96" value="SudokuGrid" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="rr0GhopDp2_qztxzZN7T-95" vertex="1">
           <mxGeometry width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="rr0GhopDp2_qztxzZN7T-97" value="//" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="rr0GhopDp2_qztxzZN7T-96" vertex="1">
+        <mxCell id="rr0GhopDp2_qztxzZN7T-97" value="- CanBeEdited: bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="rr0GhopDp2_qztxzZN7T-96" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rr0GhopDp2_qztxzZN7T-98" value="//" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="rr0GhopDp2_qztxzZN7T-96" vertex="1">
           <mxGeometry y="60" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rr0GhopDp2_qztxzZN7T-99" value="//" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=4;" parent="rr0GhopDp2_qztxzZN7T-95" vertex="1">
+        <mxCell id="rr0GhopDp2_qztxzZN7T-99" value="+ MouseCollision()" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=4;" parent="rr0GhopDp2_qztxzZN7T-95" vertex="1">
           <mxGeometry y="90" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rr0GhopDp2_qztxzZN7T-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rr0GhopDp2_qztxzZN7T-75" target="rr0GhopDp2_qztxzZN7T-66" edge="1">
@@ -437,7 +437,10 @@
         <mxCell id="YpQDO2aTqDSstm87YpT_-5" value="- ButtonID: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="rr0GhopDp2_qztxzZN7T-107">
           <mxGeometry y="60" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rr0GhopDp2_qztxzZN7T-152" value="+ MouseCollision()&lt;br&gt;- MouseClicked()&lt;br&gt;- ChooseAlgorithmBt()&lt;br&gt;- GenerateNewBt()&lt;br&gt;- ManualEntryBt()&lt;br&gt;- HelpBt()&lt;br&gt;- ShowSolutionBt()&lt;br&gt;- PlayBt()&lt;br&gt;- StartNewGameBt()" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="YpQDO2aTqDSstm87YpT_-18" value="//Editing Sudoku Grid value dynamically" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;endArrow=none;endFill=0;startSize=50;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rr0GhopDp2_qztxzZN7T-152" target="rr0GhopDp2_qztxzZN7T-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rr0GhopDp2_qztxzZN7T-152" value="+ MouseCollision()&lt;br&gt;- MouseClicked()&lt;br&gt;- ChooseAlgorithmBt()&lt;br&gt;- GenerateNewBt()&lt;br&gt;- ResetBt()&lt;br&gt;- HelpBt()&lt;br&gt;- ShowSolutionBt()&lt;br&gt;- PlayBt()&lt;br&gt;- StartNewGameBt()" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="770" y="2160" width="180" height="130" as="geometry" />
         </mxCell>
       </root>
