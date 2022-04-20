@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T03:27:07.659Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" version="17.4.5" etag="1EjRfmhK-BSGTYkgEo6P" type="github"><diagram id="67j06cLxggMQufGaIejV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-20T08:03:48.394Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="J4qCBt2QkMJOrn-4f418" version="17.4.5" type="github">
+  <diagram id="67j06cLxggMQufGaIejV" name="Page-1">
+    <mxGraphModel dx="573" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T8sv7CKZk1CtsvMwR87g-1" value="1. Data Structure = Lego&lt;br&gt;2. Algorithm = Lego Movement&lt;br&gt;3. OOP = Lego Box/Book" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="60" y="180" width="340" height="250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
