@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T10:28:00.253Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="7G7cSjoPU3WYkvbBi-Wv" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-21T10:30:45.616Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="rwX18HHOBnnTRqSyrXzK" version="17.4.6" type="github">
   <diagram id="iZvV0QXZY0Jg8EdIcTx6" name="Page-1">
     <mxGraphModel dx="1554" dy="897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="L_Wf4HDOLT7ESg3Hb2uH-8" value="Choose Algorithm" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#007FFF;fillColor=#FFFFFF;" vertex="1" parent="L_Wf4HDOLT7ESg3Hb2uH-9">
           <mxGeometry x="10" y="100" width="290" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="L_Wf4HDOLT7ESg3Hb2uH-10" value="Types of FrontEnd Window&lt;br&gt;1. With only Canvas&lt;br&gt;2. With Canvas and GUI&lt;br&gt;3. With Text Canvas and GUI" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=left;spacingLeft=10;" vertex="1" parent="1">
+        <mxCell id="L_Wf4HDOLT7ESg3Hb2uH-10" value="Types of FrontEnd Window&lt;br&gt;1. With only Canvas&lt;br&gt;2. With Canvas and GUI&lt;br&gt;3. With Text Canvas and GUI&lt;br&gt;&lt;br&gt;Type of Canvas&lt;br&gt;1. Finite Canvas&lt;br&gt;2. Loop Finite Canvas&lt;br&gt;3. Infinite Canvas&lt;br&gt;//Text Canvas can only be a Finite Canvas" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=left;spacingLeft=10;" vertex="1" parent="1">
           <mxGeometry x="1120" y="80" width="390" height="290" as="geometry" />
         </mxCell>
       </root>
