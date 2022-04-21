@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T06:23:16.596Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" version="17.4.6" etag="Ml_fINWnfpntfOzr9m6U" type="github"><diagram id="iZvV0QXZY0Jg8EdIcTx6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-21T10:28:00.253Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="7G7cSjoPU3WYkvbBi-Wv" version="17.4.6" type="github">
+  <diagram id="iZvV0QXZY0Jg8EdIcTx6" name="Page-1">
+    <mxGraphModel dx="1554" dy="897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="L_Wf4HDOLT7ESg3Hb2uH-2" value="SFML APP" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;spacingTop=-25;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="1000" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L_Wf4HDOLT7ESg3Hb2uH-1" value="//canvas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="70" width="1000" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="L_Wf4HDOLT7ESg3Hb2uH-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="70" width="310" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="L_Wf4HDOLT7ESg3Hb2uH-4" value="//GUI" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="L_Wf4HDOLT7ESg3Hb2uH-9">
+          <mxGeometry width="310" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="L_Wf4HDOLT7ESg3Hb2uH-5" value="Time (How long it take to solve it?)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#007FFF;fillColor=#CCFF99;" vertex="1" parent="L_Wf4HDOLT7ESg3Hb2uH-9">
+          <mxGeometry x="10" y="10" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="L_Wf4HDOLT7ESg3Hb2uH-6" value="Memory Cost" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#007FFF;fillColor=#CCFF99;" vertex="1" parent="L_Wf4HDOLT7ESg3Hb2uH-9">
+          <mxGeometry x="10" y="36.25" width="290" height="23.75" as="geometry" />
+        </mxCell>
+        <mxCell id="L_Wf4HDOLT7ESg3Hb2uH-7" value="Help/Description" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#007FFF;fillColor=#FFFFFF;" vertex="1" parent="L_Wf4HDOLT7ESg3Hb2uH-9">
+          <mxGeometry x="10" y="70" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="L_Wf4HDOLT7ESg3Hb2uH-8" value="Choose Algorithm" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#007FFF;fillColor=#FFFFFF;" vertex="1" parent="L_Wf4HDOLT7ESg3Hb2uH-9">
+          <mxGeometry x="10" y="100" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="L_Wf4HDOLT7ESg3Hb2uH-10" value="Types of FrontEnd Window&lt;br&gt;1. With only Canvas&lt;br&gt;2. With Canvas and GUI&lt;br&gt;3. With Text Canvas and GUI" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="80" width="390" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
