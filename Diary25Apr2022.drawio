@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T04:58:43.338Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" version="17.4.6" etag="UTfPqGC_z3M7zGAtYmp1" type="github"><diagram id="msR9kRRlo_EsNJggTc0E">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-25T08:48:07.891Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="3Gm7y8lWcLxAToiQfJW0" version="17.4.6" type="github">
+  <diagram id="msR9kRRlo_EsNJggTc0E" name="Page-1">
+    <mxGraphModel dx="1850" dy="1652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yAybO9wZzTuFIcYdNsDZ-1" value="Sat 24th Apr 2022&lt;br&gt;Mon 25th Apr 2022&lt;br&gt;ผมได้ไอเดียใหม่ก็คือการทำแบบจำลองโบราณสถาน เพราะผมชื่นชอบการเดินเล่นในสถานที่สวยๆ ผมสามารถใส่ไอเดียบางอย่างเพิ่มเติมได้ เช่น เวลา การเปลี่ยนแปลงอย่างค่อยเป็นค่อยไปของภูมิประเทศ การสะท้อนแสง ภาพ๓มิติ ฤดูการณ์ ฯลฯ แน่นอนว่าสภาพแวดล้อมมีผลต่อวิธีการคิดของผู้คนเกี่ยวกับปรัชญาชีวิต สิ่งที่พวกเขาเชื่อ&lt;br&gt;&lt;br&gt;ผมเองก็ได้รับแรงบัลดาลใจที่จะทำprojectนี้จาก Spore, Sapient, Codex Seraphinianus ฯลฯ&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;เหตุผลหนึ่งที่ผมหยุดวาดรูปแล้วไปเขียนโปรแกรม เพราะรูปวาดเป็นสื่อ๒มิติที่ไม่สามารถขยับและตอบสนองกับผู้ชมได้ ผมจึงไม่สามารถใส่ไอเดียที่ซับซ้อนขึ้น ลงในรูปวาดได้ อย่างไรก็ตามการที่ผมได้ริเริ่มเขียนโปรแกรม ผมค้นพบว่าโลกของการเขียนโปรแกรม กว้างมากๆ แม้ว่า ปัจจุบันนี้ นักเขียนโปรแกรมไม่สามารถใส่ content เกี่ยวกับชีวิตจิตใจความรู้สึก แบบที่ใส่ลงในรูปวาดได้เหมือนกับผลงานศิลปะสาขาอื่นๆ แต่วงการเทคโนโลยี่มีบทบาทกับเกือบทุกวงการ&lt;br&gt;&lt;br&gt;ช่วงก่อนหน้านี้ผมมีแต่วิธีคิดว่า อยากจะใส่Idea ที่แปลกใหม่ และซับซ้อนขึ้นเรื่อยๆ แต่ผมก็ค้นพบว่า วิธีคิดเหล่านี้ไม่เป็นระเบียบขาดความชัดเจน และไม่มีเหตุผลมากพอที่จะสร้างแรงจุงใจในการสร้างสรรค์ผลงาน&lt;br&gt;ผมคิดว่า ผมน่าจะลองสร้างผลงานที่ไม่มีเอกลักษณ์ หลายๆ แบบ แล้วผมจะมีประสบการณ์เกี่ยวกับการเขียนโปรแกรมมากขึ้น และเจอไอเดียที่น่าสนใจมากขึ้น แต่ผมกลับรู้สึกว่า สิ่งที่ผมทำมันสะเปาะสะปะและไร้ความหมายมากๆ&lt;br&gt;&lt;br&gt;ผมชอบการเดินเล่น ผมไม่ชอบ" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-40" width="640" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="yAybO9wZzTuFIcYdNsDZ-2" value="Keyword&lt;br&gt;1. Archeology &amp;amp; History &amp;amp; Art&lt;br&gt;2. Geology &amp;amp; Science&lt;br&gt;3. Art &amp;amp; Story &amp;amp; SciFi&lt;br&gt;4. Speculative Biology &amp;amp; Evolution Stimulator &amp;amp; Cellular Automata&lt;br&gt;5. Learn the Rule before you break them&lt;br&gt;6.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="920" y="210" width="550" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="yAybO9wZzTuFIcYdNsDZ-3" value="Why Archeology Unity Project&lt;br&gt;1. I love visiting Beautiful Place.&lt;br&gt;2. Extension of My Artwork.&lt;br&gt;3. Speculative Biology. Spore&lt;br&gt;4. Lego&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="950" y="470" width="420" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="yAybO9wZzTuFIcYdNsDZ-4" value="What I like&lt;br&gt;1. Image Generator&lt;br&gt;2. Reinforcement Learning &amp;amp; Puzzle&lt;br&gt;3. Background Setting" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="950" y="640" width="420" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="yAybO9wZzTuFIcYdNsDZ-5" value="1. Art Painting&lt;br&gt;2. Art Symbol Process&lt;br&gt;3. Random Puzzle&lt;br&gt;4. Art Extension" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="80" y="520" width="590" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="yAybO9wZzTuFIcYdNsDZ-6" value="1. Limitation of Artwork&lt;br&gt;2. Extension of Artwork&lt;br&gt;2.1 World&lt;br&gt;2.2 Generate&lt;br&gt;2.3 Symbol" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="-20" width="340" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yAybO9wZzTuFIcYdNsDZ-7" value="&lt;span&gt;เหตุผลหนึ่งที่ผมหยุดวาดรูปแล้วไปเขียนโปรแกรม เพราะรูปวาดเป็นสื่อ๒มิติที่ไม่สามารถขยับและตอบสนองกับผู้ชมได้ ผมจึงไม่สามารถใส่ไอเดียที่ซับซ้อนขึ้น ลงในรูปวาดได้ นอกเหนือจากนี้สีทั้งหมดที่มนุษย์ทั่วๆ ไป เห็นเกิดขึ้นจากการผสมของสีแดง เขียน และ น้ำเงินในอัตราส่วนที่แตกต่างกัน&lt;br&gt;&lt;br&gt;ผมสนใจการเขียนโปรแกรม เพราะ คอมพิวเตอร์สามารถทำสิ่งต่างๆ ได้หลากหลายและซับซ้อนกว่ารูปวาดได้ อย่างไรก็ตาม ช่วงนี้ผมเขียนโปรแกรมแบบไร้เป้าหมาย เนื้องจาก ผมทดลองIdeaหลายๆ อย่าง และทดลองใช้Technology หลายๆ แบบ&lt;br&gt;&lt;br&gt;ผมเริ่มจากสนใจAI ที่ช่วยผมวาดรูป แต่ งานดังกล่าวเป็นงานที่ขนาดใหญ่จนกระทั่งหาจุดเริ่มต้นที่ชัดเจนไม่ค่อยได้&amp;nbsp;&lt;br&gt;&lt;br&gt;ผมสนใจCellular Automata ที่ใช้เป็นสัญญาลักษณ์ไว้สื่อความหมายในผลงานศิลปะของผม อย่างไรก็ตาม ผมรู้สึกว่าSimulation เหล่านี้ไม่มีจุดประสงค์ในการสร้างขึ้นและขาดความเชื่อโยงระหว่างตัวมันเองกับความหมายที่ผมตั่งขึ้น ผมเองก็มีIdeaว่าอยากทำSimulation ที่เกี่ยวกับ วิชา คณิตศาสตร์ Physic, Chemistry, ชีววิทยา และสาขาอื่นๆ แต่สาขาเหล่านั้นต้องอาศัยความรู้เฉพาะทางและส่วนใหญ่มักจะเป็นเรื่องไกลตัวผม&lt;br&gt;&lt;br&gt;ผมจึงคิดที่จะสร้างPuzzle หลายๆ แบบเพื่อที่จะฝึกทักษะด้านOOP และ Data Structure &amp;amp; Algorithm ด้วยความเชื่อที่ว่า เดี๋ยวผมจะหาIdeaในการเขียนCodeที่น่าสนใจมากขึ้นเอง ผมหยุดทำIdeaนี้เพราะ ผมรู้สึกว่าสิ่งที่คิดจะทำนั้นค่อนข้างไร้จุดหมายและไม่ค่อยน่าสนใจ&lt;br&gt;&lt;br&gt;วันนี้ผมได้Ideaว่า ผมอยากจะทำหอศิลป์จำลองด้วยUnity โดยผมสามารถปรับเปลี่ยนสภาพแวดล้อมภายในGame สภาพภูมิอากาศ สภาพภูมิประเทศ รวมถึงตัวอาคารได้&lt;br&gt;&lt;br&gt;แน่นอนว่าผลงานทั้งหมดนี้&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="110" width="630" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="yAybO9wZzTuFIcYdNsDZ-8" value="วันนี้ผมมีIdeaว่าอยากสร้าง ทิวทัศน์(View) &amp;nbsp;จำลองด้วยUnity&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="640" width="630" height="250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
